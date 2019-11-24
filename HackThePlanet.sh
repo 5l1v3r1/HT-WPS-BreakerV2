@@ -56,7 +56,7 @@ RM_HT_FOLDER() {
 echo ""
 echo ""
 echo ""
-echo -e "$White [${Green} ok ${White}]$Green HT-WPS BreakerV2$White By$BYellow Benelhaj_Younes."
+echo -e "$White [${Green} ok ${White}]$Green HT-WPS BreakerV2$White By$BYellow r2dr0dn."
 echo ""
 echo -e "$White [${Blue} !! ${White}] Remove any temporary file."
 rm -rf ${Temporary}
@@ -1837,7 +1837,7 @@ End_OF_THE_SCRIPT(){
 					sleep 0.1
 					echo -e "             ##                ${Yellow}{Full Information}${Green}                  ##"
 					sleep 0.1
-					echo -e "             ##   ${Cyan}-Author   ${White}:      {${Yellow} Benelhaj_Younes ${White}}              ${Green}##"
+					echo -e "             ##   ${Cyan}-Author   ${White}:      {${Yellow} r2dr0dn ${White}}              ${Green}##"
 					sleep 0.1
 					echo -e "             ##   ${Cyan}-Country  ${White}:      {${Red} Morocco ${White}}                     ${Green}##"
 					sleep 0.1
@@ -2841,7 +2841,7 @@ case $menu in
                   ;;
 			  "7")
                   echo ""
-                  echo -e "$White[${Green} ok ${White}]$Green HT-WPS Breaker$White By$BYellow Benelhaj_Younes ."
+                  echo -e "$White[${Green} ok ${White}]$Green HT-WPS Breaker$White By$BYellow r2dr0dn ."
                   echo ""
 			      exit
 			      ;;
@@ -2852,7 +2852,7 @@ case $menu in
 			   ;;
 esac
 echo ""
-echo -e "$White     [${Green} ok ${White}]$Green HT-WPS Breaker$White Upgraded By$BYellow Benelhaj_Younes."
+echo -e "$White     [${Green} ok ${White}]$Green HT-WPS Breaker$White Upgraded By$BYellow r2dr0dn."
 echo -e "\e[0;39m"
 re=$(echo $re | tr [:upper:] [:lower:])
    while [ "$re" != 'y' ] && [ "$re" != 'yes' ] && [ "$re" != 'n' ] && [ "$re" != 'no' ] && [ "$re" != 'o' ] && [ "$re" != 'oui' ] && [ "$re" != "\n" ]
